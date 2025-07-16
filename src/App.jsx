@@ -1,6 +1,8 @@
 import React from 'react'
+ import { BrowserRouter, useNavigate } from 'react-router-dom';
 
 function App() {
+  useNavigate
   return (
     <>
       <nav class="navbar navbar-expand-lg bg-body-tertiary">
@@ -22,7 +24,7 @@ function App() {
                   amit
                 </a>
                 <ul class="dropdown-menu">
-                  <li><a class="dropdown-item" href="#">amit</a></li>
+                  <li><a class="dropdown-item" href="/about">amit</a></li>
                   <li><a class="dropdown-item" href="#">Another action</a></li>
             
                   <li><a class="dropdown-item" href="#">Something else here</a></li>
