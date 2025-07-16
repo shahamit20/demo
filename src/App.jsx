@@ -19,7 +19,7 @@ function App() {
               </li>
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                  Dropdown
+                  amit
                 </a>
                 <ul class="dropdown-menu">
                   <li><a class="dropdown-item" href="#">amit</a></li>
